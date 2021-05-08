@@ -6,4 +6,4 @@ chosen_stock = input("Enter the stock ticker of the stock you wish to see the pr
 
 print(finnhub_client.quote(chosen_stock))
 
-input("Thank you for using my calculator! Press enter to exit")
+input("Thank you for using my program! Press enter to exit")
